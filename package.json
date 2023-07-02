@@ -1,0 +1,23 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "projecte ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguitartc/ecmascript.git"
+  },
+  "keywords": [
+    "ecmascript",
+    "javascript"
+  ],
+  "author": "Ana Gutiart <ana.guitart@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aguitartc/ecmascript/issues"
+  },
+  "homepage": "https://github.com/aguitartc/ecmascript#readme"
+}
